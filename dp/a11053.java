@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
-public class a11503 {
+public class a11053 {
     static int n;
     static int[] A = new int[1001];
     static int[] memo = new int[1001];
